@@ -8,7 +8,7 @@ em um banco de dados e a outra para exibir o conteúdo do
 banco de dados e dar a opção para o usuário deletar aquele conteúdo.
 Ou seja, foi preciso criar duas interfaces gráficas, desenvolver
 um código para conectar o aplicativo Java ao banco de dados e,
-para isso, deveremos criar um banco de dados.  
+para isso, criei um banco de dados.  
 
 Criado por: Henrique Nunes Mendes.
 -------------------------------------------------------------------------------------------------------------------------------------
